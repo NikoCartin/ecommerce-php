@@ -1,0 +1,53 @@
+# Archivos de configuración local
+config/config.php
+!config/config.php.example
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos de XAMPP
+.htaccess
+
+# Backups de base de datos
+*.sql.bak
+backup/
+
+# Archivos de caché
+cache/
+tmp/
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+
+# Archivos de subida de usuarios
+uploads/private/
+uploads/temp/
+
+# Node modules (si se usa)
+node_modules/
+package-lock.json
+
+# Composer (si se usa)
+vendor/
+composer.lock
+
+# Logs de PHP
+error.log
+php_errors.log
+logs/
+*.log
