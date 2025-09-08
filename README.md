@@ -1,4 +1,4 @@
-![Portada del Proyecto](assets/images/PortadaGithub/portada.jpg)
+![Portada del Proyecto](assets/images/PortadaGithub.PNG)
 
 # E-commerce Demo - PHP & MySQL
 
