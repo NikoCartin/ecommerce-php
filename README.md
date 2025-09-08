@@ -1,3 +1,5 @@
+![Portada del Proyecto](assets/images/PortadaGithub/portada.jpg)
+
 # E-commerce Demo - PHP & MySQL
 
 Un sistema de comercio electrónico completo desarrollado en PHP vanilla con MySQL, diseñado para demostrar las funcionalidades principales de una tienda online.
